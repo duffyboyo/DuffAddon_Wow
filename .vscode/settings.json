@@ -1,0 +1,27 @@
+{
+    "Lua.diagnostics.globals": [
+        "SlashCmdList",
+        "NUM_ACTIONBAR_BUTTONS",
+        "hooksecurefunc",
+        "DEFAULT_CHAT_FRAME",
+        "GetRepairAllCost",
+        "GetMoney",
+        "RepairAllItems",
+        "GetCoinText",
+        "CanMerchantRepair",
+        "IsInGuild",
+        "CanGuildBankRepair",
+        "RETRIEVING_DATA",
+        "TooltipDataProcessor",
+        "WorldFrame",
+        "INSPECT",
+        "ITEM_LEVEL",
+        "ITEM_LEVEL_ALT",
+        "CLUB_FINDER_PENDING",
+        "InspectFrame",
+        "HIGHLIGHT_FONT_COLOR",
+        "DUNGEON_SCORE",
+        "ITEM_LEVEL_ABBR",
+        "FAILED"
+    ]
+}
