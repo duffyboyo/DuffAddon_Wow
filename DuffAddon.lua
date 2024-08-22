@@ -175,6 +175,9 @@ function DuffAddon:SlashCommand(msg)
 
         f:SetPoint("CENTER",0,0);
         f:Show();
+    elseif msg == 'load' then
+        -- Load first custom slot
+        EditModeManagerFrame:SelectLayout(3)
 	elseif msg == 'h' or msg == 'help' then
         _printCommandHelp(self)
     else
