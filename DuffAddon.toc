@@ -1,7 +1,8 @@
-## Interface: 110000
+## Interface: 110002
 ## Title: |cffff0000Duff|cffffffffAddon
 ## Notes: All other addons are too bloated, this is smaller but likely bloated too
 ## Author: duffyboyo
+## IconTexture: Interface\AddOns\DuffAddon\Art\Icons\Logo
 ## Version: @0.5@
 ## SavedVariables: DuffAddonDB
 
